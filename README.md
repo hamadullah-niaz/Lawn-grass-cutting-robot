@@ -24,7 +24,18 @@ The Arduino controls the movement of the robot through the motor driver shield. 
 This allows the robot to cover different areas of the lawn.
 
 ## Project Images
-(Add images below)
+### Left Side
+[Left Side View](images/left-side.png)
+
+### Right Side
+[Right Side View](images/right-side.png)
+
+### Full View
+[Full View](images/full-view.png)
+
+### Bottom View
+[Bottom View](images/bottom-view.png)
+
 
 ## Challenges
 - Sensor accuracy in outdoor conditions
